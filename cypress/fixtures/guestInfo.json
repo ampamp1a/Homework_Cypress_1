@@ -1,0 +1,63 @@
+{
+  "Customer1":{
+    "emailAddress": "Customer1@cypress.io",
+    "firstName": "One",
+    "lastName": "Case",
+    "street": "Street1",
+    "city": "City1",
+    "state" : "State1",
+    "country" : "Country1",
+    "postcode" : "11110",
+    "bankName" : "Bankcustone",
+    "accountName" : "Accountcust1",
+    "accountNumber" : "1234567891"    
+  },
+
+  "Customer2":{
+    "emailAddress": "Customer2@cypress.io",
+    "firstName": "Two",
+    "lastName": "Case",
+    "street": "Street2",
+    "city": "City2",
+    "state" : "State2",
+    "country" : "Country2",
+    "postcode" : "22220"
+
+  },
+  "Customer3":{
+    "emailAddress": "Customer3@cypress.io",
+    "firstName": "Three",
+    "lastName": "Case",
+    "street": "Street3",
+    "city": "City3",
+    "state" : "State3",
+    "country" : "Country3",
+    "postcode" : "33330",
+    "creditCardNumber" : "0000-0000-0000-0000",
+    "expirationDate" : "01/2028",
+    "cvv" : "123",
+    "cardHolderName" : "Cardcusttwo"
+  },
+  "Customer4":{
+    "emailAddress": "Customer4@cypress.io",
+    "firstName": "Four",
+    "lastName": "Case",
+    "street": "Street4",
+    "city": "City4",
+    "state" : "State4",
+    "country" : "Country4",
+    "postcode" : "44440"
+  },
+  "Customer5":{
+    "emailAddress": "Customer5@cypress.io",
+    "firstName": "Five",
+    "lastName": "Case",
+    "street": "Street5",
+    "city": "City5",
+    "state" : "State5",
+    "country" : "Country5",
+    "postcode" : "55550",
+    "giftCardNumber" : "Giftcardfive",
+    "validationCode" : "1234"
+  }
+}
