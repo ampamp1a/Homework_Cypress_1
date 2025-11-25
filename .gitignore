@@ -1,0 +1,55 @@
+# .gitignore สำหรับโปรเจค Cypress / Node
+
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment / secret files
+.env
+.env.local
+.env.*.local
+
+# Build / output
+dist/
+build/
+out/
+release/
+
+# Test artifacts (Cypress)
+cypress/videos/
+cypress/screenshots/
+cypress/results/
+mochawesome-report/
+test-results/
+reports/
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Caches
+.cache/
+.parcel-cache/
+.cache-loader/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc / temp
+tmp/
+temp/
+*.log
+*.pid
